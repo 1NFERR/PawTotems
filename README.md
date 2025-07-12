@@ -14,7 +14,10 @@
 В связи с отсутствием исходного кода, мой автосборщик пака был написал **с нуля**.
 
 ## Как установить?
-1. Нажмите на зелёную кнопку **Code**, затем на **Download ZIP**.<img width="502" height="354" alt="1st" src="https://github.com/user-attachments/assets/1f7a4068-d2fd-4c13-bc63-e9c5902f76ae" />
-2. Откройте архив, затем - папку PawTotems-main. Папку PawTotems перенести в папку **resourcepacks**.<img width="1408" height="604" alt="68747470733a2f2f692e6962622e636f2f6d726e4b7447762f696d6167652e706e67" src="https://github.com/user-attachments/assets/a7789751-16b7-470a-ba5f-925658fd1e48" />
+1. Нажмите на зелёную кнопку **Code**, затем на **Download ZIP**.
+<img width="502" height="354" alt="1st" src="https://github.com/user-attachments/assets/1f7a4068-d2fd-4c13-bc63-e9c5902f76ae" />
+
+2. Откройте архив, затем - папку PawTotems-main. Папку PawTotems перенести в папку **resourcepacks**.
+<img width="1408" height="604" alt="68747470733a2f2f692e6962622e636f2f6d726e4b7447762f696d6167652e706e67" src="https://github.com/user-attachments/assets/a7789751-16b7-470a-ba5f-925658fd1e48" />
 
 # [Версия PawTotems с поддержкой мода Hold My Items](https://github.com/1NFERR/PawTotemsHMI)
